@@ -1,0 +1,14 @@
+experiment_name: "CF10-gumbel-lr0.01-tau100-gtau1"
+dataset: "CIFAR10"
+seed: 42
+num_layers: 5
+num_neurons: 4096000
+training_bit_count: 32
+grad_factor: 1.0
+gumbel_tau: 1
+stochastic: "softmax"
+batch_size: 64
+lr: 0.01
+num_iterations: 700000
+tau: 100
+init: "randn"
