@@ -1,5 +1,6 @@
 # Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks
 
+
 Official implementation of Gumbel Logic Gate Networks (GLGNs), from the NeurIPS 2025 paper “Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks.”
 
 
@@ -58,18 +59,11 @@ Ensure container.sif is present in the current directory or adjust the path acco
 ### 🛠️ Building the Container
 
 To build the container locally:
-<ol>
-  <li>Install [Apptainer](https://apptainer.org/docs/)</li>
-  <li>Build the container
-  
-  </li>
-
+1. Install [Apptainer](https://apptainer.org/docs/)
+2. Build the container using
   ````
 apptainer build container.sif container.def
 ````
-
-
-</ol>
 
 
 ## 📄 Citation
