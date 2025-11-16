@@ -1,7 +1,7 @@
 # Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks
 
+Official implementation of **Gumbel Logic Gate Networks (GLGNs)**, from our NeurIPS 2025 paper: _[Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks](https://arxiv.org/pdf/2506.07500)_.
 
-Official implementation of Gumbel Logic Gate Networks (GLGNs), from the NeurIPS 2025 paper “Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks.”
 
 
 ![GLGN Diagram](glgn_diagram.png)
