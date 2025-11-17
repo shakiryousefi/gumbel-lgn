@@ -80,3 +80,8 @@ year={2025},
 url={https://openreview.net/forum?id=chYXaetMmz}
 }
 ````
+
+
+## 💡 Acknowledgements
+
+This repository is based on the [difflogic](https://github.com/Felix-Petersen/difflogic) codebase and the methods introduced in [Petersen et al. (2022)](https://arxiv.org/pdf/2210.08277). We thank the authors for making their implementation publicly available.
